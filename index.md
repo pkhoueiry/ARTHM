@@ -5,8 +5,7 @@
 
 ENCODE is a public research consortium aimed at identifying all functional elements in the human and mouse genomes.
 
-<details>
-<summary>Running Quality check</summary>
+
 
 Interrogating and visualizing ENCODE data
 ==========================================
@@ -20,11 +19,10 @@ Objectives:
     It is implicated in several cellular mechanisms including transcription regulation, 
     insulation and has been showing lately to regulate chromatin architecture by
     stabilizing loop formation and 3D structures.
-	
-</details>
+
 
 - Visit https://www.encodeproject.org/
-
+ 
 - 
 
 ## Header 2
