@@ -12,7 +12,7 @@ ENCODE is a public research consortium aimed at identifying all functional eleme
 
 ## Interrogating and visualizing ENCODE data
 
-Visit [Link](https://www.encodeproject.org/)
+Visit [https://www.encodeproject.org/](https://www.encodeproject.org/)
 
 As you notice, several NGS based assays were used to interrogate several features in the genome. This includes expression assays, chromatin accessibility assays, Genome architecture assays and so on.
 The home page gives us a general overview on available assays. 
@@ -31,13 +31,19 @@ For instance, there are 635 different ChIP-seq experiment performed on K562 as p
 
 We will now focus on total RNA-seq data. For this, we will use the left panel to narrow our search. 
 
-In _Assay type_ we will choose ```Transcription```
+In ```Assay type``` we will choose ```Transcription```
 
-In _Assay title_ we will choose ```total RNA-seq```
+In ```Assay title``` we will choose ```total RNA-seq```
 
-In _Cell_ we will choose ```hematopoietic cell```
+In ```Cell``` we will choose ```hematopoietic cell```
 
-Our filtering will narrow down the results to only *4* cell lines: _K562, GM12878, HL-60, Karpas-422, OCI-LY7_
+Our filtering will narrow down the results to only *4* cell lines: ```K562, GM12878, HL-60, Karpas-422, OCI-LY7```
+
+Here, we will focus on ```K562``` and ```GM12878``` cell lines.
+
+As you notice, there are  ```13 total RNA-seq``` that were performed on ```K562``` and ```5 on GM12878```
+
+Let's explore the different options for ```K562``` from which we will choose the data performed in the lab of ```Barbara Wold, Caltech```
 
 
 
