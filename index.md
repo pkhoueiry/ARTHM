@@ -1,6 +1,6 @@
 <div align="center">
     
-   **Tutorial Developped by Pierre Khoueiry, Ph.D (Bioinformatics and Genomics)**
+   Tutorial Developped by Pierre Khoueiry ```pk17@aub.com.lb```, Ph.D (Bioinformatics and Genomics)
    
 </div>
 
