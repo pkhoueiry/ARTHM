@@ -19,7 +19,7 @@ The home page gives us a general overview on available assays.
 
 ```Select Human as model organism```
 
-You notice that **12906** Biosample exist. Since we will be focusing on cell-lines related data, we will select cell line
+You notice that **12906** Biosamples exist as of March 2021. Since we will be focusing on cell-lines related data, we will select cell line
 
 ```Select Cell line from the Biosample Type list```
 
