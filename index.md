@@ -66,7 +66,7 @@ In the ```File details``` section, ```Click on Visualize```. Make sure to choose
 
 _"The UCSC Genome browser is a popular Web-based tool for quickly displaying a requested portion of a genome at any scale, accompanied by a series of aligned annotation tracks”_
 
-
+![UCSC Genome Browser](https://github.com/pkhoueiry/ARTHM/blob/gh-pages/figures/ucsc_browser.png)
 
 - Bulleted
 - List
