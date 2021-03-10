@@ -11,20 +11,23 @@ ENCODE is a public research consortium aimed at identifying all functional eleme
 
 
 ## Interrogating and visualizing ENCODE data
-- Visit https://www.encodeproject.org/ 
+
+Visit https://www.encodeproject.org/
 
 As you notice, several NGS based assays were used to interrogate several features in the genome. This includes expression assays, chromatin accessibility assays, Genome architecture assays and so on.
 The home page gives us a general overview on available assays. 
 
-```Select Human```
+```Select Human as model organism```
 
 You notice that **12906** Biosample exist. Since we will be focusing on cell-lines related data, we will select cell line
 
-```Select Cell line```
+```Select Cell line from the Biosample Type list```
 
-This will open a new page with a matrix summarizing, for each cell line, the different NGS related assays performed
+This will open a new page with a matrix summarizing, for each cell line, the different NGS related assays performed.
 
-``` test ```
+For instance, there are 635 different ChIP-seq experiment performed on K562 as part of the ENCODE project.
+
+``` Click on 635 an you will get more information on each of the 635 ChIP-seq including the Transcription factor name```
 
 
 
