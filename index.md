@@ -1,13 +1,12 @@
-## ARTHM Workshop: Bioinformatics And Data Mining In Cancer Research Workshop
+**ARTHM Workshop: Bioinformatics And Data Mining In Cancer Research Workshop** 
 
-
-### The Encyclopedia of DNA Elements (ENCODE)
+**The Encyclopedia of DNA Elements (ENCODE)**
 
 ENCODE is a public research consortium aimed at identifying all functional elements in the human and mouse genomes.
 
 
 
-Interrogating and visualizing ENCODE data
+### Interrogating and visualizing ENCODE data
 ==========================================
 
 Objectives:
