@@ -46,6 +46,14 @@ As you notice, there are  ```13 total RNA-seq``` that were performed on ```K562`
 Let's explore the different options for ```K562``` from which we will choose the data performed in the lab of ```Barbara Wold, Caltech```
 
 
+## Visualizing ENCODE data on UCSC Genome browser
+
+_The UCSC Genome browser is a popular Web-based tool for quickly displaying a requested portion of a genome at any scale, accompanied by a series of aligned annotation “tracks.”_
+
+
+
+
+
 
 ## Header 2
 ### Header 3
