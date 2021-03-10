@@ -16,8 +16,16 @@ ENCODE is a public research consortium aimed at identifying all functional eleme
 As you notice, several NGS based assays were used to interrogate several features in the genome. This includes expression assays, chromatin accessibility assays, Genome architecture assays and so on.
 The home page gives us a general overview on available assays. 
 
-```Select Human. You notice that 12906 Biosample exist```
-Since we will be focusing on cell-lines related data, we will select cell line
+```Select Human```
+
+You notice that **12906** Biosample exist. Since we will be focusing on cell-lines related data, we will select cell line
+
+```Select Cell line```
+
+This will open a new page with a matrix summarizing, for each cell line, the different NGS related assays performed
+
+``` test ```
+
 
 
 ## Header 2
