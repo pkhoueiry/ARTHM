@@ -51,19 +51,18 @@ Here, we will focus on ```K562``` and ```GM12878``` cell lines.
 As you notice, there are  ```13 total RNA-seq``` that were performed on ```K562``` and ```5 on GM12878```
 
 Let's explore the different options for ```K562``` from which we will choose the data performed in the lab of ```Barbara Wold, Caltech```
+The page will show technical information related to the experiment, the biological replicates and additional information.
+The ```Files``` section lists the different results associated with the experiment. You can download the files or visualize their content online.
+The ```Association graph``` tab, explores how the analysis was performed and what type of output it gave.
+The ```File details``` tab displays the files and allows you to download them or to visualize them using ```ENSEMBL``` or ```UCSC``` Genome browsers
 
+In the ```File details``` section, ```Click on Visualize```. Make sure to choose ```UCSC``` as Genome Browser
 
 ## Visualizing ENCODE data on UCSC Genome browser
 
-_The UCSC Genome browser is a popular Web-based tool for quickly displaying a requested portion of a genome at any scale, accompanied by a series of aligned annotation “tracks.”_
+_"The UCSC Genome browser is a popular Web-based tool for quickly displaying a requested portion of a genome at any scale, accompanied by a series of aligned annotation tracks”_
 
 
-
-
-
-
-## Header 2
-### Header 3
 
 - Bulleted
 - List
