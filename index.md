@@ -15,9 +15,9 @@ ENCODE is a public research consortium aimed at identifying all functional eleme
     stabilizing loop formation and 3D structures.
 
 
-### Interrogating and visualizing ENCODE data
+## Interrogating and visualizing ENCODE data
 - Visit https://www.encodeproject.org/ 
-- 
+
 
 ## Header 2
 ### Header 3
