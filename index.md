@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome To Bioinformatics And Data Mining In Cancer Research Workshop
 
-You can use the [editor on GitHub](https://github.com/pkhoueiry/ARTHM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The Encyclopedia of DNA Elements (ENCODE)
 
-### Markdown
+ENCODE is a public research consortium aimed at identifying all functional elements in the human and mouse genomes.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
