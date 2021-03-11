@@ -73,6 +73,18 @@ _"The UCSC Genome browser is a popular Web-based tool for quickly displaying a r
 We will explore the different options the Genome Browser offer to manipulate and visualize genomic data including ENCODE data
 
 
+## Adding additional RNA-seq data from The Encyclopedia of DNA Elements (ENCODE)
+
+Now that we explored how to search for available NGS assays for a specific cell line/tissue/organ, we will add new datasets to the Genome browser. For this
+
+```Go back to ENCODE and load the total RNA-seq data for GM12878, another hematopoetic cell line, from the same lab (Barbara Wold, Caltech)```
+
+As you can see, we now have a total RNA-seq track for each of K562 and GM12878. You can add as many track as you want.
+
+
+## Integrating visualization for RNA-seq and ChIP-seq
+
+
 
 
 
