@@ -21,10 +21,9 @@ ENCODE is a public research consortium aimed at identifying all functional eleme
 
 Visit [https://www.encodeproject.org/](https://www.encodeproject.org/)
 
-![ENCODE project](https://github.com/pkhoueiry/ARTHM/blob/gh-pages/figures/ENCODE.png)
+![ENCODE project](figures/ENCODE.png)
 
-<img src="https://github.com/pkhoueiry/ARTHM/blob/gh-pages/figures/ENCODE.png" alt="ENCODE project" width="400"/>
-
+<img src="figures/ENCODE.png" alt="ENCODE project" width="400"/>
 
 As you notice, several NGS based assays were used to interrogate several features in the genome. This includes expression assays, chromatin accessibility assays, Genome architecture assays and so on.
 The home page gives us a general overview on available assays. 
