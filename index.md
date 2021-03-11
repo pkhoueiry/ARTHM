@@ -23,8 +23,6 @@ Visit [https://www.encodeproject.org/](https://www.encodeproject.org/)
 
 ![ENCODE project](figures/ENCODE.png)
 
-<img src="figures/ENCODE.png" alt="ENCODE project" width="400"/>
-
 As you notice, several NGS based assays were used to interrogate several features in the genome. This includes expression assays, chromatin accessibility assays, Genome architecture assays and so on.
 The home page gives us a general overview on available assays. 
 
@@ -70,5 +68,11 @@ In the ```File details``` section, ```Click on Visualize```. Make sure to choose
 
 _"The UCSC Genome browser is a popular Web-based tool for quickly displaying a requested portion of a genome at any scale, accompanied by a series of aligned annotation tracks”_
 
-![UCSC Genome Browser](https://github.com/pkhoueiry/ARTHM/blob/gh-pages/figures/ucsc_browser.png)
+![UCSC Genome Browser](figures/ucsc_browser.png)
+
+We will explore the different options the Genome Browser offer to manipulate and visualize genomic data including ENCODE data
+
+
+
+
 
