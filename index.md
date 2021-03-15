@@ -88,6 +88,8 @@ We will now load several assays at the same time. As mentioned in the objectives
 
 For this we will use the below filters on ENCODE:
 
+In ```ENCODE home page``` choose ```Data Matrix```
+
 In ```Assay type``` choose ```DNA binding```
 
 In ```Assay title``` choose ```TF ChIP-seq```
@@ -100,7 +102,7 @@ In ```Organism``` choose ```Homo sapiens```
 
 In ```Biosample term name``` choose ```K562``` and ```GM12878```
 
-This filtering strategy will yield to a matrix with 11 entries. Now, we can send the data for visualization on UCSC genome browser
+This filtering strategy will yield to a matrix with 9 entries. Now, we can send the data for visualization on UCSC genome browser
 
 ![batch_visualization](figures\visualize_ucsc_encode.png)
 
