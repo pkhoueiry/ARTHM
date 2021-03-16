@@ -1,10 +1,9 @@
 <div align="center">
-
     Advances in Research and Treatment of Hematological Malignancies (ARTHM)<br><br>
-    Tutorial Developped by Pierre Khoueiry, Ph.D (Bioinformatics and Genomics)
-   
 </div>
-
+<div align="center">
+    Tutorial Developped by Pierre Khoueiry, Ph.D (Bioinformatics and Genomics)
+</div>
 
 **The Encyclopedia of DNA Elements (ENCODE)**
 
